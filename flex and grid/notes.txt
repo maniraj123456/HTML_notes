@@ -1,0 +1,3 @@
+Flex is 1-D flexible element .i.e the element is shirinking/expanding in row or column.
+
+Grid is 2-D flexible element .i.e the element is shirinkable/expanding in 2-D.
